@@ -1,0 +1,65 @@
+# getbox
+
+.w100{width:100%;}
+.w90{width:90%;}
+.w80{width:80%;}
+.w70{width:70%;}
+.w60{width:60%;}
+.w50{width:50%;}
+.w40{width:40%;}
+.w30{width:30%;}
+.w20{width:20%;}
+.w10{width:10%;}
+
+.cent{
+	text-align:center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pb30{padding-bottom:30px;}
+.pb20{padding-bottom:20px;}
+.pb10{padding-bottom:10px;}
+
+.p30{padding:30px;}
+.p20{padding:20px;}
+.p10{padding:10px;}
+
+.r30{border-right: 30px;}
+.r20{border-right: 20px;}
+.r10{border-right: 10px;}
+
+
+
+
+
+
+@media screen and (max-width:768px) {.mbh{display:none;}}
+@media screen and (min-width:769px) {.pch{display:none;}}
+.box01 {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+@media screen and (min-width: 1080px) {.box01{width: 1080px;}}
+@media screen and (max-width: 1079px) {.box01{width: 100%;}}
+
+.box02 {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+@media screen and (min-width: 800px) {.box02{width: 800px;}}
+@media screen and (max-width: 799px) {.box02{width: 100%;}}
+
+.box03 {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+@media screen and (min-width: 600px) {.box03{width: 600px;}}
+@media screen and (max-width: 599px) {.box03{width: 100%;}}
